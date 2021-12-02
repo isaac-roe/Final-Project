@@ -1,5 +1,5 @@
-Replace this with your project title
-====================================
+Music Reviews
+=============
 
 .. toctree::
    :maxdepth: 2
