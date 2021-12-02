@@ -11,3 +11,5 @@ Replace this with your project title
    luke_combs/when_it_rains_it_pours
    paradise/paradise
    thomas_rhett/die_a_happy_man
+   vaporwave_music_reviews/index
+   vaporwave_music_reviews_2/index
