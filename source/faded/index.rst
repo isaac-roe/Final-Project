@@ -5,30 +5,21 @@ What is Dubstep?
 ----------------
 
 Dubstep is a sub genre of Elecronic Dance Music (also referred to as EDM). It originated in South London in
-the early 2000s.It's widely known for its rythmic patterns and bass.
+the early 2000s.It's widely known for its rythmic patterns and bass. Popular artists include but aren't
+limited to:
+* Shrillex
+* Bassmectar
+* Flux Pavilion
+* Datsik
+* Excision
 
-Subheading
-----------
+Who is Flux Pavilion ?
+----------------------
 
-Cras pharetra ut felis nec
-feugiat. Donec ut mauris tristique, fermentum ipsum et, laoreet dolor. Vivamus
-congue nisi id elit fringilla varius. Quisque maximus nec nisl id egestas. Fusce
-sagittis, metus at porta eleifend, dui massa ullamcorper risus, in tempus sem
-quam id sapien. Vivamus tempor ligula id nunc lobortis posuere. Sed eget ipsum
-velit. Nulla vulputate ipsum sed magna porttitor, sit amet elementum ante ultricies.
-Nam scelerisque lectus sodales erat iaculis, vitae pellentesque magna facilisis.
-
-Aliquam ex lorem, molestie at finibus quis, ullamcorper et purus. Pellentesque
-habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur
-ridiculus mus. Vivamus dictum interdum pulvinar.
-
-In molestie augue id orci
-aliquet vehicula. Donec ullamcorper, lectus in molestie consequat, magna erat
-rhoncus sapien, sit amet semper ante elit non purus. Cras ac laoreet neque.
-Aenean maximus lacus elementum neque ultricies, tristique tincidunt lacus
-lobortis. Proin molestie bibendum neque et euismod. Aliquam eu dictum diam.
-Pellentesque quis porta urna.
+FLux Pavilion, or Joshua Steele, is an English EDM producer, DJ, singer, and songwriter. He has been
+performing since 2008. He is currently 32 years old and living in Towcester, United Kingdom. One of
+his most popular songs, *Bass Cannon*, has 27 million views on youtube. It's free to download! Today,
+many gamers have used it as background music for gameplays like *Call of Duty*.
 
 Subheading
 ----------
