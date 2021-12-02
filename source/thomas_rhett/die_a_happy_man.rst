@@ -1,5 +1,5 @@
-My Subject
-==========
+Die A Happy Man - Thomas Rhett
+==============================
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris maximus ante id
 efficitur vestibulum. Praesent lacinia tellus cursus tortor condimentum, nec
@@ -7,8 +7,8 @@ tempus nibh aliquam. Sed id pulvinar risus. Morbi elementum odio iaculis massa
 fermentum, vitae posuere urna interdum. Quisque eu massa sapien. Ut vel nunc sit
 amet enim fermentum ultricies pharetra sit amet est.
 
-Subheading
-----------
+About Thomas Rhett
+------------------
 
 Cras pharetra ut felis nec
 feugiat. Donec ut mauris tristique, fermentum ipsum et, laoreet dolor. Vivamus
@@ -30,8 +30,8 @@ Aenean maximus lacus elementum neque ultricies, tristique tincidunt lacus
 lobortis. Proin molestie bibendum neque et euismod. Aliquam eu dictum diam.
 Pellentesque quis porta urna.
 
-Subheading
-----------
+Review
+------
 
 Aliquam tempus urna diam, eu sagittis magna porta eu. Fusce aliquam nunc vitae
 lectus vulputate, quis commodo augue molestie. Vestibulum fermentum nunc odio,
