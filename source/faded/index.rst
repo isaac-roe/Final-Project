@@ -1,11 +1,11 @@
-My Subject
-==========
+Flux Pavilion - The King of Dubstep
+===================================
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris maximus ante id
-efficitur vestibulum. Praesent lacinia tellus cursus tortor condimentum, nec
-tempus nibh aliquam. Sed id pulvinar risus. Morbi elementum odio iaculis massa
-fermentum, vitae posuere urna interdum. Quisque eu massa sapien. Ut vel nunc sit
-amet enim fermentum ultricies pharetra sit amet est.
+What is Dubstep?
+----------------
+
+Dubstep is a sub genre of Elecronic Dance Music (also referred to as EDM). It originated in South London in
+the early 2000s.It's widely known for its rythmic patterns and bass.
 
 Subheading
 ----------
