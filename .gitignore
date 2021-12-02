@@ -1,0 +1,9 @@
+/build
+/venv
+/.idea
+sublime.sublime-project
+sublime.sublime-workspace
+submlime.sublime-project
+submlime.sublime-workspace
+.DS_Store
+Thumbs.db
