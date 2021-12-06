@@ -14,3 +14,4 @@ Music Reviews
    vaporwave_music_reviews/index
    vaporwave_music_reviews_2/index
    jazz/index
+   jazz_modern/index

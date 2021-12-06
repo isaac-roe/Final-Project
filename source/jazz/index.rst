@@ -1,2 +1,2 @@
-Jazz
-====
+Classic Jazz
+============
