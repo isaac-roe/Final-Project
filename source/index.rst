@@ -2,7 +2,7 @@ Music Reviews
 =============
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    bass_cannon/index
@@ -13,3 +13,4 @@ Music Reviews
    thomas_rhett/die_a_happy_man
    vaporwave_music_reviews/index
    vaporwave_music_reviews_2/index
+   jazz/index
