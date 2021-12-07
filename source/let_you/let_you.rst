@@ -15,6 +15,11 @@ potential to climb even higher in the future.
 About Iann Dior
 ---------------
 
+.. figure:: iandior.png
+   :width: 300px
+
+   Iann Dior [#f1]
+
 Michael Ian Olmo, known professionally as Iann Dior was born on March 25, 1999.
 Dior is an American rapper, singer, and songwriter. Dior might be very young but
 has already became big news in the music industry. Dior's big breakthrough came
