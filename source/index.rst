@@ -1,15 +1,17 @@
-Replace this with your project title
-====================================
+Music Reviews
+=============
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
-   bass_cannon/index
    faded/index
+   bass_cannon/index
    let_you/let_you
-   luke_combs/when_it_rains_it_pours
    paradise/paradise
    thomas_rhett/die_a_happy_man
+   luke_combs/when_it_rains_it_pours
    vaporwave_music_reviews/index
    vaporwave_music_reviews_2/index
+   jazz/index
+   jazz_modern/index

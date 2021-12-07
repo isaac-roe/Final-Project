@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Sample Project Name'
+project = 'Web Development Final'
 copyright = '2021, Jane Smith'
 author = 'Jane Smith'
 
