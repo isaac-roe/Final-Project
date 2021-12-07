@@ -40,7 +40,7 @@ https://www.youtube.com/watch?v=h3cE9iXIx9c
 .. figure:: flux_pavilion.jpg
    :width: 300px
 
-   UKF Record Label used for Bass Cannon [#f1]_
+   UKF Record Label used for Bass Cannon [https://ukf.com/]_
 
 Where can you find EDM songs?
 -----------------------------
