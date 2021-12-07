@@ -1,10 +1,10 @@
 Let You - Iann Dior
 ===================
 
-.. figure:: iandior.png
+.. figure:: letyou.jpg
    :width: 300px
 
-   Iann Dior [#f1]
+   Let You [#f1]
 
 Let You, by Iann Dior is a pop single released in the Fall of 2021. Let You is
 a fairly popular single that has risen to **#62 on Itunes charts** and
@@ -18,7 +18,7 @@ About Iann Dior
 .. figure:: iandior.png
    :width: 300px
 
-   Iann Dior [#f1]
+   Iann Dior [#f2]
 
 Michael Ian Olmo, known professionally as Iann Dior was born on March 25, 1999.
 Dior is an American rapper, singer, and songwriter. Dior might be very young but
