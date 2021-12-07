@@ -7,12 +7,17 @@ What is Dubstep?
 Dubstep is a sub genre of Elecronic Dance Music (also referred to as EDM). It originated in South London in
 the early 2000s.It's widely known for its rythmic patterns and bass. Popular artists include but aren't
 limited to:
-* Shrillex
-* Bassmectar
-* Flux Pavilion
-* Datsik
-* Excision
-* Boom Kitty
+
+==============  ===============================  ===============
+Artist          Song                             Year of Release
+==============  ===============================  ===============
+Shrillex        Scary Monsters and Nice Sprites
+Bassmectar
+Flux Pavilion
+Datsik
+Excision
+Boom Kitty
+==============
 
 The biggest difference between Dubstep and EDM is Dubstep has a lot less lyrics and involves a
 lot more bass and drum.
@@ -42,7 +47,7 @@ https://www.youtube.com/watch?v=h3cE9iXIx9c
 
    UKF Record Label used for Bass Cannon [https://ukf.com/]_
 
-Where can you find EDM songs?
+Where can you find Dubstep songs?
 -----------------------------
 
 Here are some great free options for finding Dubstep songs
@@ -59,7 +64,7 @@ Why should you listen to Dubstep?
 Dubstep has become extremely popular due to that it can play with different 'equipment and sets'.
 Dupstep beat drops increases dopamine, which is an organic chemical in your body. When the beat
 drops (or when you have the anticipation of the beat drop), dopamine goes through your body,
-making you feel good. Sometimes EDM is used as background music, distraction music, or music
+making you feel good. Sometimes Dubstep is used as background music, distraction music, or music
 for high intensity activities. Some people use it when they are in an intense game because
 sometimes it makes them feel better and keep focused.
 
