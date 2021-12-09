@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Web Development Final'
-copyright = '2021, Jane Smith'
-author = 'Jane Smith'
+copyright = '2021, Buck Eagleburger, Sammy Cardinal, Michelle Pritchard-Hall, Max Diaz, Isaac Roe'
+author = 'Buck Eagleburger, Sammy Cardinal, Michelle Pritchard-Hall, Max Diaz, Isaac Roe'
 
 
 # -- General configuration ---------------------------------------------------
