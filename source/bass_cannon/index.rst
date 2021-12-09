@@ -11,13 +11,13 @@ limited to:
 ==============  ===============================  ===============
 Artist          Song                             Year of Release
 ==============  ===============================  ===============
-Shrillex        Scary Monsters and Nice Sprites
-Bassmectar
-Flux Pavilion
-Datsik
-Excision
-Boom Kitty
-==============
+Shrillex        Scary Monsters and Nice Sprites  2010
+Bassmectar      Bass Head                        2012
+Flux Pavilion   Bass Cannon                      2011
+Datsik          Find Me                          2018
+Excision        In My Mind                       2021
+Boom Kitty      Rum n' Bass                      2018
+==============  ===============================  ===============
 
 The biggest difference between Dubstep and EDM is Dubstep has a lot less lyrics and involves a
 lot more bass and drum.
@@ -86,3 +86,5 @@ Sources
 -------
 * Fluxpavilion.com
 * loso.estranky.sk
+
+.. This page was coded by Sammy Cardinal
