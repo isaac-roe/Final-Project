@@ -1,13 +1,41 @@
 Die A Happy Man - Thomas Rhett
 ==============================
 
+.. figure:: DieaHappyMan.jpg
+   :width: 300px
 
+   Die a Happy Man [#f1]_
+
+Die a Happy Man is a song that is co-written as well as recorded by Thomas Rhett.
+This song is a song that Thomas Rhett wrote about his wife. He got inspiration
+to write this song when his wife encouraged him to write a song like "Just
+to See You Smile" by Tim McGraw.
+This song is the second single in Thomas Rhett's second album, *Tangled Up*.
+The song was released on September 28, 2015. Upon its release, Die a Happy Man
+did very well. It quickly reached the top of the Hot Country Songs chart doing
+so on November 14, 2015. Once at the top the song remained there for seventeen
+weeks before it was eventually taken over. Die a Happy Man did very well on the
+charts in 2015-2016.
+
+==================================  =============
+Chart (2015-2016)                   Peak Position
+==================================  =============
+US *Billboard* Hot 100              21
+US Adult Top 40 (*Billboard*)       25
+US Country Airplay (*Billboard*)    1
+US Hot Country Songs (*Billboard*)  1
+==================================  =============
+
+Die a Happy Man had success in other countries as well, but its main success
+took place in the United States.
 
 About Thomas Rhett
 ------------------
 
 .. figure:: thomas-rhett.jpg
    :width: 300px
+
+   Thomas Rhett [#f2]_
 
 Thomas Rhett Akins Jr. war born on March 30, 1990 in Valdosta, Georgia.
 Rhett first started to get involved with music
@@ -50,3 +78,9 @@ be too slow for me, and I do not always enjoy listening to a slow song. Overall,
 I would give this song a 7.5/10. It is a really good song by Thomas Rhett,
 however, it is not a song that I could listen to a lot and it can easily grow
 old to me.
+
+.. [#f1] "`Die a Happy Man <https://daily.plaympe.com/thomas-rhett-die-a-happy-man/>`_"
+   Valory Music Group. 2015. Retrieved 2021-12-7.
+
+.. [#f2] "`Thomas Rhett <https://www.savingcountrymusic.com/there-are-no-b-level-stages-thomas-rhett-only-b-level-stars/>`_"
+   Saving Country Music. 2021. Retrieved 2021-12-7.
