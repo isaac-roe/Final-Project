@@ -1,13 +1,13 @@
-Early Jazz
-============
+Jazz - Early and Classic
+========================
 
-Classic Jazz, or more commonly known as "New Orleans Style" since New Orleans is
-where is started, originated near the beginning of the 1900s. It originated with
-brass bands that would perform for parties and dances in the early 1900s. Many
-of the instruments included tuba, banjo, clarinet, saxophone, tuba, bass,
-guitar, drums & on the occasion, piano. This new music took on many adaptations
-of popular melodies, hymns, work songs, marches, and the Blues. This era of
-classic jazz even resurfaced for a bit in the 1990s.
+Early Jazz, or more focused on "New Orleans Style" since New Orleans is
+where a lot of major jazz music started, originated near the beginning of the
+1900s. It originated with brass bands that would perform for parties and dances
+in the early 1900s. Many of the instruments included tuba, banjo, clarinet,
+saxophone, tuba, bass, guitar, drums & on the occasion, piano. This new music
+took on many adaptations of popular melodies, hymns, work songs, marches, and
+the Blues. This era of classic jazz even resurfaced for a bit in the 1990s.
 
 .. image:: louis.jpg
    :width: 300px

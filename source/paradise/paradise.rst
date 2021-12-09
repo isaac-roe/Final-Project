@@ -7,9 +7,9 @@ Paradise - Bazzi
    Paradise [#f1]_
 
 Paradise, by Bazzi is a pop single released in the Spring of 2019. Paradise is
-a fairly popular single that received Platinum in Australia, Brazil
-Canada, and the United States. Paradise is a slower pop but has a great beat
-that is perfect for chilling and feeling good.
+a fairly popular single that received Platinum in Australia, Brazil,
+Canada, and the United States. Paradise is a form of slower pop but has a great beat
+that is perfect for both chilling and feeling good.
 
 About Bazzi
 -----------

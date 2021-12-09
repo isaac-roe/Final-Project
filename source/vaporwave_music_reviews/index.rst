@@ -1,65 +1,102 @@
-My Subject
-==========
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris maximus ante id
-efficitur vestibulum. Praesent lacinia tellus cursus tortor condimentum, nec
-tempus nibh aliquam. Sed id pulvinar risus. Morbi elementum odio iaculis massa
-fermentum, vitae posuere urna interdum. Quisque eu massa sapien. Ut vel nunc sit
-amet enim fermentum ultricies pharetra sit amet est.
+Vaporwave Corner
+=====================
+Vaporwave is a niche genre of electronic music that distinguished itself from the
+rest of the chillwave section. Its uniqueness comes from the iconic visual aesthetic
+it promotes; sometimes, its visual style is more recognizable than the music from
+which it originated.  The pioneers of the genre Ariel Pink and James Ferraro
+slowed down, Chopped, and screwed different samples of smooth Jazz, ambient street
+noises, R&B, mall, and lounge music from the 1980s and 1990s. Sometimes Vaporwave’s
+aesthetics and movement, in general, can be described as a commentary on modern
+capitalism and the soulless glamour of late-stage capitalism. The goal is to create
+a sense of nostalgia for an era that most listeners never lived in between the
+consumerist culture of the 1980s to the optimistic era of the early 2000s.
 
-Subheading
-----------
 
-Cras pharetra ut felis nec
-feugiat. Donec ut mauris tristique, fermentum ipsum et, laoreet dolor. Vivamus
-congue nisi id elit fringilla varius. Quisque maximus nec nisl id egestas. Fusce
-sagittis, metus at porta eleifend, dui massa ullamcorper risus, in tempus sem
-quam id sapien. Vivamus tempor ligula id nunc lobortis posuere. Sed eget ipsum
-velit. Nulla vulputate ipsum sed magna porttitor, sit amet elementum ante ultricies.
-Nam scelerisque lectus sodales erat iaculis, vitae pellentesque magna facilisis.
+Feature Artist: James Ferraro
+--------------------------------
 
-Aliquam ex lorem, molestie at finibus quis, ullamcorper et purus. Pellentesque
-habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur
-ridiculus mus. Vivamus dictum interdum pulvinar.
+.. image:: Ferraro.jpg
+   :width: 300px
 
-In molestie augue id orci
-aliquet vehicula. Donec ullamcorper, lectus in molestie consequat, magna erat
-rhoncus sapien, sit amet semper ante elit non purus. Cras ac laoreet neque.
-Aenean maximus lacus elementum neque ultricies, tristique tincidunt lacus
-lobortis. Proin molestie bibendum neque et euismod. Aliquam eu dictum diam.
-Pellentesque quis porta urna.
+James Ferraro [#f1]_
 
-Subheading
-----------
 
-Aliquam tempus urna diam, eu sagittis magna porta eu. Fusce aliquam nunc vitae
-lectus vulputate, quis commodo augue molestie. Vestibulum fermentum nunc odio,
-et dapibus eros porttitor at. Phasellus auctor, elit nec ultricies fermentum,
-sem augue volutpat mi, eget malesuada metus purus ut dolor. Aenean posuere
-tortor ligula, vitae ultrices tellus eleifend ac. Morbi velit magna,
-sollicitudin vitae aliquet sed, tincidunt non enim. Vivamus tempus eros ac
-purus varius suscipit. Aliquam eu egestas metus.
+James Ferraro is a musician, composer, producer, and visual artist. He is known
+as a prolific artist whose music jumpstarted hypnagogic pop and vaporwave music
+genres. Whose works often explore the glare problems of our society like climate
+change and consumer culture. Ferraro’s general interest in music began at a very
+young main due to his influence from his parents, of which his father was DJ, and
+his mother was a singer. His career started when he met Spencer Clark, the duo
+who created the Californian group The Skaters in the early 2000s.  During his time
+at The Skaters, he found his style composed noise and collage sound ranging from
+mystic lo-fi ethos to new age, alternative R&B, and contemporary classical with a hi-fi touch.
+David Keenan described Ferraro’s music from The Wire as hypnagogic pop, which
+invoke memories or nostalgia for 1980s culture. He was thrown into the spotlight
+when the 2011 album Far Side Virtual was chosen as the Album of the Year by The
+Wire. His Album is often credited for establishing the roots for the electronic
+music microgenre known as Vaporware. Despite this honor, Ferraro constantly
+refuses to be known as the father of this microgenre. Today, he recently dropped
+a new album called Requiem for Recycled Earth (2019), whose goal is to address
+the impact of climate change on the world by creating an all-consuming, claustrophobic
+experience for the listener.
 
-Morbi augue turpis, imperdiet non turpis quis, consequat varius quam.
-Suspendisse imperdiet dapibus arcu viverra aliquam. Fusce eu mauris turpis.
-Nullam auctor, purus et imperdiet tristique, lacus lorem vehicula sapien,
-a tempus quam ex vitae mi. Cras nec lobortis mi. Integer ultricies ornare
-sagittis. Praesent elementum sem justo, vel rhoncus orci fringilla vitae.
-Sed gravida urna neque, vel convallis metus dapibus ut. Mauris euismod quam
-ante, quis interdum erat viverra id. Aliquam bibendum laoreet odio at imperdiet.
-Morbi placerat, leo id tincidunt iaculis, nulla nunc luctus massa, et vulputate
-nisi est et nibh. In gravida ut ligula non sodales. Phasellus porttitor varius
-iaculis.
+Album: Far Side Virtual
+--------------------------
+.. image:: FarSideVirtual.jpg
+   :width: 300px
 
-Maecenas malesuada blandit tellus, id fringilla sem tempor eget. Morbi maximus
-euismod bibendum. Maecenas sit amet dolor ut orci tristique elementum.
-Suspendisse scelerisque porta metus, at tincidunt mi. Duis et mauris at enim
-finibus maximus. Nunc vel justo ex.
+Far Side Virtual [#f2]_
 
-Vivamus ultricies eros ante, nec egestas
-lorem fermentum id. Aliquam erat volutpat. Aenean tempus eu mi a elementum.
-Donec sit amet iaculis sapien. Proin imperdiet hendrerit sem quis tempus.
-Etiam metus augue, ornare consequat magna ut, malesuada mollis erat. Etiam
-porta efficitur sapien sed congue. In tristique est urna, sit amet varius
-enim finibus sed.
+
+Far Side Virtual is an album by James Ferraro, released in 2011 both digitally
+and on vinyl. The album is marked as a turning point in Ferraro’s career as an
+artist since it symbolizes his transition from his previous style, which focuses
+on lo-fi drone music, towards more aesthetic-oriented music that later evolved
+into vaporwave. Far Side Virtual deliberately uses corporate-style music,
+commonly referred to as elevator music, and retro computer sounds to evoke a
+sense of nostalgia towards the listener. The album was initially inspired when
+Ferraro began experimenting with phone ringtones to create music. The album tackles
+the concepts of hyper capitalistic culture from the 1990s and retro-futurism.
+Critics describe Far Side Virtual as too bleak and pessimistic for the modern
+world.
+
+Far Side Virtual
+--------------------
+=======  =====================
+Track    Song
+=======  =====================
+01          Linden Dollars
+02          Global Lunch
+03          Dubai Dream Tone
+04          Sim
+05          Bags
+06          PIXARnia and the Future of Norman Rockwell
+07          Palm Trees, Wi-Fi and Dream Sushi
+08          Fro Yo and Cellular Bits
+09          Google Poeises
+10          Starbucks, Dr. Seussism, and While Your Mac is Sleeping
+11          Adventures in Green Foot Printing
+12          Dream On
+13          Earth Minutes
+14          Tomorrow's Baby of the Year
+15          Condo Pets
+16          Solar Panel Smile
+=======  =====================
+
+Review:
+------------
+I guess the reason this album is known to be a little bit unsettling is mainly
+due to the eerie corporate cleanliness of it. It‘s almost like the contrasting
+music for a dystopian future with a cheerful tone. Also, the track music is
+reminiscent of when I was younger, and I used to play on my father’s beige
+gateway computer, and the noises and beats add to that. Overall, the album
+creates a sense of wonder and frightfulness that few of them make me feel. That’s
+why I give it a 9/10 score based on my opinion.
+
+
+.. [#f1] "`James Ferraro <https://lostmediawiki.com/Summer_Headrush_2009_Series_(lost_unreleased_James_Ferraro_albums;_2009)>`_".
+   lostmediawiki. 2015. Retrieved 2021-12-06.
+
+.. [#f2] "`Far Side Virtual <https://www.discogs.com/master/496200-James-Ferraro-Far-Side-Virtual>`_".
+   Discogs James Ferraro–Far Side Virtual. 2011. Retrieved 2021-12-06.
