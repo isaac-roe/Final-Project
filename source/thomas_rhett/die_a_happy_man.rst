@@ -7,13 +7,13 @@ Die A Happy Man - Thomas Rhett
    Die a Happy Man [#f1]_
 
 Die a Happy Man is a song that is co-written as well as recorded by Thomas Rhett.
-This song is a song that Thomas Rhett wrote about his wife. He got inspiration
+This song is a song that Thomas Rhett wrote about his wife. He got the inspiration
 to write this song when his wife encouraged him to write a song like "Just
 to See You Smile" by Tim McGraw.
 This song is the second single in Thomas Rhett's second album, *Tangled Up*.
 The song was released on September 28, 2015. Upon its release, Die a Happy Man
 did very well. It quickly reached the top of the Hot Country Songs chart doing
-so on November 14, 2015. Once at the top the song remained there for seventeen
+so on November 14, 2015. Once at the top, the song remained there for seventeen
 weeks before it was eventually taken over. Die a Happy Man did very well on the
 charts in 2015-2016.
 
@@ -37,17 +37,17 @@ About Thomas Rhett
 
    Thomas Rhett [#f2]_
 
-Thomas Rhett Akins Jr. war born on March 30, 1990 in Valdosta, Georgia.
+Thomas Rhett Akins Jr. was born on March 30, 1990, in Valdosta, Georgia.
 Rhett first started to get involved with music
 when he learned how to play the drums in junior high school.
-After this he would go on and do performances with his
-father. When Rhett was in high school he joined a band named The High Heeled
+After this, he would go on and do performances with his
+father. When Rhett was in high school, he joined a band named The High Heeled
 Flip Flops. After high school, Rhett would
-go on to attend Lipscomb University in Nashville, Tennessee where he studied
+go on to attend Lipscomb University in Nashville, Tennessee, where he studied
 communications. Once he reached the age
-of 20 he decided to drop out of college and pursue his music career.
-Since then Rhett has went on to have very
-successful music career. He has released many albums which are as follows.
+of 20, he decided to drop out of college and pursue his music career.
+Since then, Rhett has gone on to have a very
+successful music career. He has released many albums, which are as follows.
 
 * *It Goes Like This* (2013)
 * *Tangled Up* (2015)
@@ -65,7 +65,7 @@ Thomas Rhett has also done many tours including:
 * Center Point Road Tour (2020-2021)
 
 .. note::
-   Thomas Rhett has been involved with many others tours besides the ones above.
+   Thomas Rhett has been involved with many other tours besides the ones above.
    The tours that are listed are the
    ones where Thomas Rhett is the Headlining performer.
 
@@ -75,8 +75,8 @@ Review
 Die a Happy Man is one of Thomas Rhett's most popular songs. I personally like
 Die a Happy Man, but it is not my favorite song by Thomas Rhett. The song can
 be too slow for me, and I do not always enjoy listening to a slow song. Overall,
-I would give this song a 7.5/10. It is a really good song by Thomas Rhett,
-however, it is not a song that I could listen to a lot and it can easily grow
+I would give this song a 7.5/10. It is a really good song by Thomas Rhett.
+However, it is not a song that I could listen to a lot, and it can quickly grow
 old to me.
 
 .. [#f1] "`Die a Happy Man <https://daily.plaympe.com/thomas-rhett-die-a-happy-man/>`_"
