@@ -1,6 +1,9 @@
 Flux Pavilion - The King of Dubstep
 ===================================
 
+.. warning::
+    Dubstep is highly addicting and very catchy. Make sure to moderate your listening time.
+
 What is Dubstep?
 ----------------
 
@@ -84,7 +87,8 @@ https://www.youtube.com/watch?v=mWsPOhUCgHM
 
 Sources
 -------
-* Fluxpavilion.com
-* loso.estranky.sk
+
+.. [Ref] Fluxpavilion.com
+.. [Ref] loso.estranky.sk
 
 .. This page was coded by Sammy Cardinal
