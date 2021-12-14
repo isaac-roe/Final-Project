@@ -1,6 +1,9 @@
 Alex Walker - A EDM Sensation
 =================================
 
+.. warning::
+    EDM is highly addicting and very catchy. Make sure to moderate your listening time.
+
 What is EDM?
 ----------------
 
@@ -78,7 +81,7 @@ https://www.youtube.com/watch?v=CFF0mV24WCY
 Sources
 -------
 
-* lafilm.edu
-* alanwalker.com
+.. [Ref] lafilm.edu
+.. [Ref] alanwalker.com
 
 .. This page was coded by Sammy Cardinal
