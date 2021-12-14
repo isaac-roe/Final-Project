@@ -54,8 +54,11 @@ Here are some great free options for finding Dubstep songs
 (some items might contain advertisements):
 
 * Itunes
+
 * Spotify
+
 * Soundcloud
+
 * Youtube
 
 Why should you listen to Dubstep?

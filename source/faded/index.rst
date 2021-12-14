@@ -38,8 +38,11 @@ Here are some great free options for finding EDM songs
 (some items might contain advertisements):
 
 * Itunes
+
 * Spotify
+
 * Soundcloud
+
 * Youtube
 
 Popular EDM Songs
