@@ -1,6 +1,6 @@
 
 Vaporwave Corner
-=====================
+================
 Vaporwave is a niche genre of electronic music that distinguished itself from the
 rest of the chillwave section. Its uniqueness comes from the iconic visual aesthetic
 it promotes; sometimes, its visual style is more recognizable than the music from
@@ -14,7 +14,7 @@ consumerist culture of the 1980s to the optimistic era of the early 2000s.
 
 
 Feature Artist: James Ferraro
---------------------------------
+-----------------------------
 
 .. image:: Ferraro.jpg
    :width: 300px
